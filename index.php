@@ -86,6 +86,7 @@
 
 			if(insertChecked > 0){
 				console.log(insertCheckedBox);
+				// here you can write your ajax code to insert data into the datatbase
 			} 
         })
        
